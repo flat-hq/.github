@@ -1,4 +1,4 @@
-![Drones carry metaphorical representations of software](header_illo.svg)
+![Drones carry metaphorical representations of software](profile/header_illo.svg)
 
 
 # Constructor is the *lightweight* collaboration platform for software teams.
